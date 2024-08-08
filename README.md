@@ -28,7 +28,7 @@ Navigate to the project directory: ```cd abacus```
 
 Compile the program: ```make```
 
-Run the program: ```./abacus```
+Run the program: ```.bin/abacus```
 
 ## Usage
 
